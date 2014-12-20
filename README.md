@@ -1,3 +1,8 @@
+### Update
+This is an update to the cloned README file provided for the course assignment 2
+
+The cachematrix.R file illustrates matrix caching, having updated the example from vector caching
+
 ### Introduction
 
 This second programming assignment will require you to write an R
